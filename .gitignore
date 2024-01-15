@@ -1,2 +1,8 @@
 # vscode
 .vscode
+
+#env file
+.env
+
+# database
+/database
